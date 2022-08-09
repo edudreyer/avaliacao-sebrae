@@ -1,0 +1,8 @@
+{
+    "name": "palestra/sebrae",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
